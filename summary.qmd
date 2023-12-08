@@ -1,3 +1,3 @@
 # Summary
 
-In summary, this book has no content whatsoever.
+This book will be built using completely free and open source materials powered by community knowledge and experience with data.
