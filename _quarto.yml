@@ -1,6 +1,9 @@
 project:
   type: book
-
+  
+resources:
+  - CNAME
+  
 book:
   title: "Learn Data Skills"
   author: "Data Engineering Community"
