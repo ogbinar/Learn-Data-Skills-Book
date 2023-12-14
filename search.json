@@ -23,8 +23,8 @@
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "3  References",
+    "title": "3  Books",
     "section": "",
-    "text": "Data Engineering Cookbook https://github.com/andkret/Cookbook\nData Analysis https://wesmckinney.com/book/\nData Science https://www.statlearning.com/resources-python\nClassical Machine Learning https://scikit-learn.org/stable/user_guide.html\nDeep Learning https://pytorch.org/tutorials/"
+    "text": "Data Engineering Cookbook https://github.com/andkret/Cookbook\nData Analysis https://wesmckinney.com/book/\nData Science https://www.statlearning.com/resources-python\nDeep Learning https://www.deeplearningbook.org/\n\n\n4 Websites\n\nFullstack Python https://www.fullstackpython.com/\nSQL Zoo https://sqlzoo.net/wiki/SQL_Tutorial\nScikit Learn https://scikit-learn.org/stable/user_guide.html\nPytorch https://pytorch.org/tutorials"
   }
 ]
