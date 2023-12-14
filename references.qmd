@@ -1,7 +1,12 @@
-# References 
+# Books 
 
 - Data Engineering Cookbook https://github.com/andkret/Cookbook
 - Data Analysis https://wesmckinney.com/book/
 - Data Science https://www.statlearning.com/resources-python
-- Classical Machine Learning https://scikit-learn.org/stable/user_guide.html
-- Deep Learning https://pytorch.org/tutorials/
+- Deep Learning https://www.deeplearningbook.org/
+
+# Websites
+- Fullstack Python https://www.fullstackpython.com/
+- SQL Zoo https://sqlzoo.net/wiki/SQL_Tutorial
+- Scikit Learn https://scikit-learn.org/stable/user_guide.html
+- Pytorch https://pytorch.org/tutorials
