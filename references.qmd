@@ -6,6 +6,7 @@
 - Deep Learning https://www.deeplearningbook.org/
 
 # Websites
+
 - Fullstack Python https://www.fullstackpython.com/
 - SQL Zoo https://sqlzoo.net/wiki/SQL_Tutorial
 - Scikit Learn https://scikit-learn.org/stable/user_guide.html
