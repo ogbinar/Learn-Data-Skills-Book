@@ -11,3 +11,4 @@
 - SQL Zoo https://sqlzoo.net/wiki/SQL_Tutorial
 - Scikit Learn https://scikit-learn.org/stable/user_guide.html
 - Pytorch https://pytorch.org/tutorials
+- Hugging Face https://huggingface.co/learn
